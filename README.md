@@ -26,7 +26,7 @@
 <body>
   <h1>Hello World!</h1>
   <p>Bắt đầu với HTML. Học từ bây giờ có quá muộn?.</p>
-  <img src="https://www.pinterest.com/pin/607071224760874116/" alt="Let's Go">
+  <img src="https://unsplash.com/photos/a-cabin-sits-before-snowy-mountains-and-wildflowers-h53hYVUnX2g" alt="Let's Go">
   <p>Truy cập <a href="https://www.google.com" target="_blank">Google</a> để tìm kiếm thêm thông tin.</p>
 </body>
 </html>
