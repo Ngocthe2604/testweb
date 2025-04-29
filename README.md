@@ -6,19 +6,19 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
+      background-color: #blue;
       text-align: center;
       padding: 50px;
     }
     h1 {
-      color: #336699;
+      color: #red;
     }
     img {
       max-width: 100%;
       height: auto;
     }
     a {
-      color: #ff6600;
+      color: #black;
       text-decoration: none;
     }
   </style>
